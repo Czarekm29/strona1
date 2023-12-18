@@ -1,0 +1,42 @@
+body {
+    background-color: gray;
+    
+}
+
+
+p {
+    color: red;
+    list-style-type: upper-roman;
+}
+
+table {
+    border-style: dashed;
+    border-color: brown;
+    border-width: 50%;
+    
+}
+
+div{
+    background-color: red;
+    float: left;
+    font-weight: bold;
+    font-style: italic;
+    margin-left: 2px;
+    padding-bottom: 2px;
+}
+#przycisk{
+    background-color: #0066ff;
+    border-color: black;
+    border-width: 120%;
+}
+
+.jeden{
+    background-color: rgb(94, 255, 0);
+}
+#dwa{
+    background-color: deeppink;
+}
+#trzy{
+    background-color: fuchsia;
+}
+
